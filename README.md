@@ -12,3 +12,21 @@ You will at least understand how to trace the behavior of `pandas` after reading
 I also have [slides](https://hackmd.io/p/rJkXzTWm7#/) talking about this.
 
 ## Run the notebook by yourself
+
+You may want to test by yourself:
+
+1. clone this repository and go into the directory:
+
+    ```sh
+    git clone https://github.com/ianlini/pandas-pitfall.git
+    cd pandas-pitfall
+    ```
+
+1. build and execute the Jupyter notebook:
+
+    ```sh
+    docker-compose up --build
+    ```
+
+2. click the URL shown on terminal to open Jupyter notebook
+3. open `demo.ipynb` using Jupyter notebook

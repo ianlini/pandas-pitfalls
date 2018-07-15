@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  jupyter-notebook:
+    build: .
+    network_mode: host
