@@ -22,11 +22,11 @@ You may want to test by yourself:
     cd pandas-pitfall
     ```
 
-1. build and execute the Jupyter notebook:
+2. build and execute the Jupyter notebook:
 
     ```sh
     docker-compose up --build
     ```
 
-2. click the URL shown on terminal to open Jupyter notebook
-3. open `demo.ipynb` using Jupyter notebook
+3. click the URL shown on the terminal to open Jupyter notebook
+4. open `demo.ipynb` using Jupyter notebook
